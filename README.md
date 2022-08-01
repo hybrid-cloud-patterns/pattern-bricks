@@ -1,0 +1,2 @@
+# pattern-bricks
+Many Kubernetes Operators require post operator installation tasks in order for the software to be useful. While these tasks might be very use case specific there is generally good practices that can automated. This automation can be tweaked and extended for specific use cases. ISVs and system integrators that wish to contribute Helm charts with these best practices can include them in this repo for use with Red Hat patterns and validated patterns.  
